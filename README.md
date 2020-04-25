@@ -26,3 +26,10 @@
 ## Model deployment and orchestration
 * [Kubeflow](https://github.com/kubeflow/kubeflow)
 
+## Data sets
+
+### Real-time
+  * [Twitter](https://developer.twitter.com/en/docs/tweets/filter-realtime/overview)
+### Data dumps
+  * [GitHub](https://www.gharchive.org/)
+  * [Kaggle](https://www.kaggle.com/datasets)
