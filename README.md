@@ -1,4 +1,4 @@
-# Data Engineering Jupyter Notebooks
+# Data Engineering and Data Science Jupyter Notebooks
 
 ## Reference articles
 * [Data Engineering v/s Data Science](https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist)
@@ -25,6 +25,10 @@
 
 ## Model deployment and orchestration
 * [Kubeflow](https://github.com/kubeflow/kubeflow)
+
+## Data Science
+* [Spark MLlib](https://spark.apache.org/mllib/)
+* [Linear Programming using PuLP](https://towardsdatascience.com/linear-programming-and-discrete-optimization-with-python-using-pulp-449f3c5f6e99)
 
 ## Data sets
 
