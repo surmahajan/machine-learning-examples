@@ -1,4 +1,4 @@
-# Jupyter Notebooks
+# Machine Learning Examples
 
 ## Reference articles
 * [Data Engineering v/s Data Science](https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist)
