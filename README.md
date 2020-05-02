@@ -1,11 +1,17 @@
 # Machine Learning Examples
 
+## Install requirements in venv
+```
+    python -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
+
+```
+
 ## Reference articles
 * [Data Engineering v/s Data Science](https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist)
 * [Scaling the wall between data scientist and data engineer](https://medium.com/weareservian/scaling-the-wall-between-data-scientist-and-data-engineer-51b0a99da073)
 * [Serialization](https://blog.softwaremill.com/the-best-serialization-strategy-for-event-sourcing-9321c299632b)
-
-# OSS Tools
 
 ## Data Engineering
 
