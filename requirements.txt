@@ -1,5 +1,6 @@
 PuLP
 NumPy
+Pandas
 SciPy
-pyspark
 scikit-learn
+matplotlib
