@@ -4,3 +4,4 @@ Pandas
 SciPy
 scikit-learn
 matplotlib
+export_graphviz
