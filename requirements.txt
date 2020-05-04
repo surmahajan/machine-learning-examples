@@ -1,7 +1,7 @@
+wheel
 PuLP
 NumPy
 Pandas
-SciPy
-scikit-learn
 matplotlib
-export_graphviz
+IPython
+sklearn
