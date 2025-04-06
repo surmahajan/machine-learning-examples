@@ -1,4 +1,3 @@
-black
 black[jupyter]
 graphviz
 jupyterlab
